@@ -36,15 +36,15 @@ h1 {
 }
 
 #card1 .menu-title {
-	background-color: #ffb3b3;
+	background-color: yellow;
 }
 
 #card2 .menu-title {
-	background-color: #b3ffb3;
+	background-color: #pink;
 }
 
 #card3 .menu-title {
-	background-color: #b3b3ff;	
+	background-color: blue;	
 }
 
 
