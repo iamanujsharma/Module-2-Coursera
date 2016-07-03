@@ -1,5 +1,7 @@
 /* Base styles */
-
+body {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
 * {
   box-sizing: border-box;
 }
@@ -15,7 +17,7 @@ p {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
+
   color: black;
   text-align: right;
 }
