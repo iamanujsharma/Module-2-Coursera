@@ -4,7 +4,9 @@
 
 body {
 	font-family: 'Product Sans', Arial, sans-serif;
-	background-color: #FFFFFF;
+	 background-image: url('http://www.oldsaltys.com/wp-content/uploads/2015/03/Light-Wood-Background-Wallpaper-NEW.jpg');
+         background-repeat: no-repeat;
+
 }
 
 h1 {
